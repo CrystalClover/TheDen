@@ -3,7 +3,7 @@
 # SPDX-FileCopyrightText: 2023 I.K
 # SPDX-FileCopyrightText: 2023 Kara
 # SPDX-FileCopyrightText: 2023 brainfood1183
-# SPDX-FileCopyrightText: 2023 notquitehadouken
+# SPDX-FileCopyrightText: 2023 notquitehadouken <1isthisameme>
 # SPDX-FileCopyrightText: 2024 DEATHB4DEFEAT
 # SPDX-FileCopyrightText: 2024 Fansana
 # SPDX-FileCopyrightText: 2024 Nairod
@@ -364,7 +364,7 @@
         - ReagentSlimePax
         - ReagentSlimeNocturine
         - ReagentSlimeTHC
-        - ReagentSlimeBicaridine
+        - ReagentSlimeSalicylicAcid # Funkychem
         - ReagentSlimeToxin
         - ReagentSlimeNapalm
         - ReagentSlimeOmnizine
@@ -471,21 +471,21 @@
         color: "#808080"
 
 - type: entity
-  id: ReagentSlimeBicaridine
+  id: ReagentSlimeSalicylicAcid
   parent: ReagentSlime
-  suffix: Bicaridine
+  suffix: Salicylic Acid
   components:
   - type: Bloodstream
-    bloodReagent: Bicaridine
+    bloodReagent: SalicylicAcid
   - type: PointLight
-    color: "#ffaa00"
+    color: "#f9e0e9"
   - type: Sprite
     drawdepth: Mobs
     sprite: Mobs/Aliens/elemental.rsi
     layers:
       - map: [ "enum.DamageStateVisualLayers.Base" ]
         state: alive
-        color: "#ffaa00"
+        color: "#f9e0e9"
 
 - type: entity
   id: ReagentSlimeToxin

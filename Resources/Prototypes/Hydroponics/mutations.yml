@@ -17,6 +17,7 @@
     - Honk
     - BuzzochloricBees
     - Stimulants
+    - ExoticReagent # Funkychem
   - quantity: 5
     weight: 1
     reagents:
@@ -24,9 +25,11 @@
     - Toxin
     - Leporazine
     - Epinephrine
+    - Convermol # Funkychem
     - CarpoToxin
     - SulfuricAcid
     - Licoxide
+    - Pestiline # Funkychem
     - Napalm
     - ChlorineTrifluoride
     - Radium
@@ -48,14 +51,14 @@
     - Pax
     - Cryoxadone
     - Ethylredoxrazine
-    - Dylovene
+    - Multiver # Funkychem
     - Histamine
     - Blood
     - WeldingFuel
     - Mercury
     - Silver
     - Phenol
-    - Ultravasculine
+    - PenteticAcid # Funkychem
     - Carbon
     - THC
     - Nicotine
@@ -67,8 +70,12 @@
   - quantity: 10
     weight: 3
     reagents:
-    - Bicaridine
-    - Dermaline
+    - Libital # Funkychem - Start
+    - Probital
+    - SalicylicAcid
+    - Aiuri
+    - Lenturi
+    - Oxandrolone # funky end
     - Ephedrine
     - NorepinephricAcid
     - Tricordrazine
@@ -101,7 +108,7 @@
     weight: 3.5
     reagents:
     - Vitamin
-    - Kelotane
+    - Dexalin # Funkychem
     - Inaprovaline
     - Oil
     - Slime
